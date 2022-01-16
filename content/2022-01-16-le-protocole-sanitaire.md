@@ -1,6 +1,6 @@
 ---
 title: Le protocole sanitaire
-image: https://www.mairie-pierrefitte93.fr/wp-content/uploads/2021/08/annee-scolaire-2021-2022-protocole-et-cadre-de-fonctionnement.jpg
+image: https://www.sortiraparis.com/images/80/88384/611563-.jpg
 imageMeta:
   attribution: ""
   attributionLink: ""

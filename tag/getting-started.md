@@ -1,7 +1,6 @@
 ---
-name: Getting Started
-image:
-imageMeta:
+name: Education
+image: https://www.touteleurope.eu/wp-content/uploads/2020/08/politique-euro-formation-education.jpg
+imageMeta: null
 ---
-A description for the getting-started tag. If you delete this line it will say
-`A collection of X posts` where the description should go.
+Tous les sujets d'éducation

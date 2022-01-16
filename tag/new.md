@@ -1,5 +1,5 @@
 ---
-name: Recent Posts
-image:
-imageMeta:
+name: Posts Récents
+image: null
+imageMeta: null
 ---

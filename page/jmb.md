@@ -1,5 +1,5 @@
 ---
-title: Built with ❤️ by Chris Manson
+title: Ma vie
 image: /images/built-by.jpg
 imageMeta:
   attribution:

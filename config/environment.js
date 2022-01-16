@@ -24,19 +24,19 @@ module.exports = function (environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Mon super site',
+      description: 'Salut ici je raconte ma vie',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [
         {
-          label: 'Home',
+          label: 'Accueil',
           route: 'index',
         },
         {
-          label: 'Built by Chris Manson',
+          label: 'Un site de JMB',
           route: 'page',
-          id: 'chris-manson',
+          id: 'jmb',
         },
       ],
     },

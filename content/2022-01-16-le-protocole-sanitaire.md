@@ -6,7 +6,7 @@ imageMeta:
   attributionLink: ""
 featured: true
 authors:
-  - blanquer
+  - ghost
 tags:
   - education
 date: Sun Jan 16 2022 3:27:47 pm

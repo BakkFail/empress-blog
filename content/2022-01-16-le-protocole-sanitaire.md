@@ -2,8 +2,8 @@
 title: Le protocole sanitaire
 image: https://www.sortiraparis.com/images/80/88384/611563-.jpg
 imageMeta:
-  attribution: ""
-  attributionLink: ""
+  attribution: test
+  attributionLink: https://google.com
 featured: true
 authors:
   - ghost
